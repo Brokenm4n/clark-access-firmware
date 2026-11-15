@@ -1,0 +1,3 @@
+ACCESS-FIRMWARE-1
+test-node-c3
+NONE

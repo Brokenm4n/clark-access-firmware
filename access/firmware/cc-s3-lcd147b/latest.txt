@@ -1,0 +1,6 @@
+ACCESS-FIRMWARE-1
+cc-s3-lcd147b
+0.6.8-dev
+1193152
+f3c8e867cc5e1ea551422b599dfec475c38f0901152d022fdd91af3b8671244c
+cc-s3-lcd147b-0.6.8-dev.bin
